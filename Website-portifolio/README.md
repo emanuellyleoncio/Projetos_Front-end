@@ -143,5 +143,3 @@ Seções
 
 
 **LEMBRE-SE**: é melhor feito do quê perfeito!!!
-
-###### tags: `front-end` `módulo 1` `HTML` `CSS` `desafio`
